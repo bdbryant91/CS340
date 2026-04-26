@@ -1,5 +1,5 @@
 CS-340 Project Two: Grazioso Salvare Dashboard
-Author: Breanna Bryant | Date: April 19, 2026
+Author: Breanna Bryant | Date: April 26, 2026
 
 This JupyterDash application helps Grazioso Salvare explore animal shelter data and quickly identify dogs for water rescue, mountain or wilderness rescue, and disaster or tracking missions. It connects to MongoDB through a small CRUD Python module, displays an interactive Dash DataTable, recalculates a breed distribution chart from visible rows, and centers a map on the selected record. The included screenshot shows the header, mission filter, record count, and populated table in JupyterLab.
 
